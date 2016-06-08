@@ -1,0 +1,17 @@
+{
+  "name": "your/package",
+  "description": "Your package's description.",
+  "keywords": [
+    "your",
+    "keywords"
+  ],
+  "license": "MIT",
+  "type": "library",
+  "homepage": "http://example.com",
+  "support": {
+    "email": "support@example.com",
+    "issues": "https://github.com/your/package/issues"
+  },
+  "require": {
+  }
+}

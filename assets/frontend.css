@@ -1,0 +1,9 @@
+/* Your package's frontend CSS. Loaded by your frontend controller(s) after everything else. */
+
+.frontend-test {
+    display: block !important;
+    background: red;
+    color: white;
+    padding: 8px;
+    border: 1px solid darkred;
+}
