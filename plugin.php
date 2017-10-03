@@ -41,6 +41,7 @@ class Plugin_Sample_plugin extends Plugin {
      */
     public $config = array(
         'fields' => array(
+            /* You can get the value of fields by using `$this->get("test_field");` */
             'test_field' => array(
                 'name' => 'test_field',
                 'label' => array('en' => 'Test field label'),
